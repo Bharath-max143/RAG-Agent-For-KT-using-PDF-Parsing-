@@ -10,3 +10,4 @@ pypdf
 pydantic
 requests
 sse_starlette
+python-multipart
